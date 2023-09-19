@@ -18,15 +18,15 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 04 June 2023 - To: 16 September 2023
+From: 04 June 2023 - To: 17 September 2023
 
-Total Time: 84 hrs 28 mins
+Total Time: 85 hrs 53 mins
 
-C                28 hrs 6 mins   ████████▒░░░░░░░░░░░░░░░░   32.96 %
-JavaScript       15 hrs 21 mins  ████▓░░░░░░░░░░░░░░░░░░░░   18.02 %
-C++              12 hrs 49 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   15.04 %
-Rust             4 hrs 50 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.67 %
-Python           3 hrs 13 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 %
+C                28 hrs 6 mins   ████████░░░░░░░░░░░░░░░░░   32.42 %
+JavaScript       15 hrs 21 mins  ████▒░░░░░░░░░░░░░░░░░░░░   17.72 %
+C++              12 hrs 49 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.79 %
+Rust             4 hrs 50 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.58 %
+Python           3 hrs 13 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 %
 ```
 
 <!--END_SECTION:waka-->
