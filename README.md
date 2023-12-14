@@ -18,15 +18,15 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 04 June 2023 - To: 11 December 2023
+From: 04 June 2023 - To: 12 December 2023
 
-Total Time: 167 hrs 45 mins
+Total Time: 170 hrs 31 mins
 
-JavaScript       52 hrs 17 mins  ███████▓░░░░░░░░░░░░░░░░░   30.78 %
-C                28 hrs 7 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.55 %
-Go               14 hrs 19 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 %
-C++              12 hrs 49 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 %
-TypeScript       10 hrs 42 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.30 %
+JavaScript       52 hrs 48 mins  ███████▓░░░░░░░░░░░░░░░░░   30.58 %
+C                28 hrs 7 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.29 %
+Go               14 hrs 19 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 %
+TypeScript       12 hrs 53 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 %
+C++              12 hrs 49 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 %
 ```
 
 <!--END_SECTION:waka-->
