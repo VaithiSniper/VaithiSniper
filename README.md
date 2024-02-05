@@ -18,15 +18,15 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 03 January 2024 - To: 02 February 2024
+From: 04 January 2024 - To: 03 February 2024
 
-Total Time: 35 hrs 48 mins
+Total Time: 36 hrs 42 mins
 
-JavaScript     20 hrs 6 mins   ██████████████░░░░░░░░░░░   56.14 %
-Python         10 hrs 47 mins  ███████▓░░░░░░░░░░░░░░░░░   30.10 %
-YAML           2 hrs 24 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.70 %
-CSS            1 hr 34 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 %
-HTML           30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
+JavaScript   18 hrs 37 mins  ████████████▓░░░░░░░░░░░░   50.70 %
+Python       10 hrs 47 mins  ███████▒░░░░░░░░░░░░░░░░░   29.37 %
+YAML         2 hrs 24 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.54 %
+CSS          2 hrs 1 min     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.52 %
+TypeScript   1 hr 38 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 %
 ```
 
 <!--END_SECTION:waka-->
