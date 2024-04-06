@@ -18,15 +18,15 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 04 March 2024 - To: 03 April 2024
+From: 05 March 2024 - To: 04 April 2024
 
-Total Time: 38 hrs 15 mins
+Total Time: 40 hrs 46 mins
 
-TypeScript   24 hrs 29 mins  ███████████████▓░░░░░░░░░   63.02 %
-Rust         10 hrs 39 mins  ███████░░░░░░░░░░░░░░░░░░   27.43 %
-JSON         1 hr 9 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 %
-TOML         55 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 %
-Other        35 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
+TypeScript   26 hrs 56 mins  ████████████████▒░░░░░░░░   65.11 %
+Rust         10 hrs 41 mins  ██████▒░░░░░░░░░░░░░░░░░░   25.82 %
+JSON         1 hr 11 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 %
+TOML         56 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
+Other        36 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
 ```
 
 <!--END_SECTION:waka-->
