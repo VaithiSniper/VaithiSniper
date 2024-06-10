@@ -18,15 +18,15 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 08 May 2024 - To: 07 June 2024
+From: 09 May 2024 - To: 08 June 2024
 
-Total Time: 14 hrs 23 mins
+Total Time: 13 hrs 58 mins
 
-TypeScript        5 hrs 39 mins   █████████▓░░░░░░░░░░░░░░░   39.14 %
-C++               3 hrs 19 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.95 %
-Move              1 hr 42 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.82 %
-Text              46 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.35 %
-JSON              31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 %
+TypeScript        5 hrs 39 mins   ██████████░░░░░░░░░░░░░░░   40.30 %
+C++               3 hrs 19 mins   ██████░░░░░░░░░░░░░░░░░░░   23.64 %
+Move              1 hr 42 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.17 %
+JSON              31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 %
+Markdown          30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 %
 ```
 
 <!--END_SECTION:waka-->
