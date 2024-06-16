@@ -18,15 +18,15 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 14 May 2024 - To: 13 June 2024
+From: 16 May 2024 - To: 15 June 2024
 
-Total Time: 20 hrs 20 mins
+Total Time: 18 hrs 13 mins
 
-C++              8 hrs 53 mins   ███████████░░░░░░░░░░░░░░   43.59 %
-TypeScript       5 hrs 22 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.38 %
-Move             1 hr 42 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 %
-ObjectiveC       1 hr 25 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.99 %
-CMake            32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 %
+C++              9 hrs 33 mins   █████████████░░░░░░░░░░░░   52.20 %
+TypeScript       3 hrs 14 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.65 %
+Move             1 hr 42 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.33 %
+ObjectiveC       1 hr 25 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 %
+CMake            50 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 %
 ```
 
 <!--END_SECTION:waka-->
