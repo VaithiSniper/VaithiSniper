@@ -18,15 +18,15 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 22 May 2024 - To: 21 June 2024
+From: 23 May 2024 - To: 22 June 2024
 
-Total Time: 26 hrs 35 mins
+Total Time: 26 hrs 28 mins
 
-C++              14 hrs 26 mins  █████████████▓░░░░░░░░░░░   54.10 %
-QML              3 hrs 16 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.29 %
-QmlType          2 hrs 12 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 %
-TypeScript       1 hr 50 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.89 %
-CMake            1 hr 42 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.38 %
+C++              14 hrs 26 mins  █████████████▓░░░░░░░░░░░   54.34 %
+QML              3 hrs 16 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.34 %
+QmlType          2 hrs 12 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 %
+TypeScript       1 hr 43 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.48 %
+CMake            1 hr 42 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.41 %
 ```
 
 <!--END_SECTION:waka-->
