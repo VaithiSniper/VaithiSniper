@@ -18,15 +18,15 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 25 June 2024 - To: 25 July 2024
+From: 26 June 2024 - To: 26 July 2024
 
-Total Time: 3 hrs 22 mins
+Total Time: 3 hrs 32 mins
 
-YAML        2 hrs 29 mins   ██████████████████▒░░░░░░   73.88 %
-Lua         23 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.74 %
-tmux        16 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 %
-CMake       6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.06 %
-sshconfig   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
+YAML        2 hrs 40 mins   ██████████████████▓░░░░░░   75.12 %
+Lua         23 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.18 %
+tmux        16 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 %
+CMake       6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 %
+sshconfig   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
 ```
 
 <!--END_SECTION:waka-->
