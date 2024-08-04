@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Solana and ZK-proofs
-- 📖 Learning to BUIDL with Rust, Go and C++
-- 🕸️ Exploring Istio
+- 🔭 I’m currently working on KDE software 💓 and L4/L7 networking applications 
+- 📖 Learning to make cross-platform applications with Kirigami, Qt and C++
+- 🕸️ Exploring eBPF/DPDK, Envoy and instrumenting Cloud-Native applications. 
 - 👯 I’m looking to collaborate on any project that fits my skillset ^_^
 - Reach me at my LinkedIn : https://www.linkedin.com/in/vaitheeswaran-janakiraman-8231a3200/
 
