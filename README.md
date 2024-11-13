@@ -18,16 +18,16 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 12 May 2024 - To: 10 November 2024
+From: 13 May 2024 - To: 11 November 2024
 
-Total Time: 185 hrs 5 mins
+Total Time: 186 hrs 44 mins
 
-Go                134 hrs 4 mins  ██████████████████░░░░░░░   71.99 %
-C++               14 hrs 27 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 %
-YAML              7 hrs 54 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 %
-TypeScript        6 hrs 4 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.26 %
-QML               3 hrs 16 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
-Bash              2 hrs 53 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
+Go                135 hrs 40 mins ██████████████████░░░░░░░   72.17 %
+C++               14 hrs 27 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 %
+YAML              8 hrs 58 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.77 %
+TypeScript        5 hrs 47 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 %
+QML               3 hrs 16 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
+Bash              2 hrs 53 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
 ```
 
 <!--END_SECTION:waka-->
