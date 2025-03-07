@@ -18,16 +18,15 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 03 September 2024 - To: 04 March 2025
+From: 04 September 2024 - To: 05 March 2025
 
-Total Time: 304 hrs 19 mins
+Total Time: 306 hrs
 
-Go                   230 hrs 54 mins ██████████████████▓░░░░░░   75.32 %
-Python               33 hrs 54 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   11.06 %
-YAML                 21 hrs 5 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.88 %
-Bash                 5 hrs 57 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
-Makefile             2 hrs 14 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
-Other                2 hrs 13 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
+Go                   230 hrs 46 mins ██████████████████▓░░░░░░   74.85 %
+Python               34 hrs 35 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   11.22 %
+YAML                 22 hrs 12 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   07.20 %
+Bash                 5 hrs 57 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 %
+Other                2 hrs 18 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
 ```
 
 <!--END_SECTION:waka-->
