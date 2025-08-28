@@ -18,15 +18,15 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 24 February 2025 - To: 25 August 2025
+From: 25 February 2025 - To: 26 August 2025
 
-Total Time: 165 hrs
+Total Time: 161 hrs 27 mins
 
-YAML                 42 hrs 1 min    ██████░░░░░░░░░░░░░░░░░░░   23.75 %
-C                    32 hrs 45 mins  ████▓░░░░░░░░░░░░░░░░░░░░   18.50 %
-Python               30 hrs 17 mins  ████▒░░░░░░░░░░░░░░░░░░░░   17.11 %
-Go                   27 hrs 20 mins  ████░░░░░░░░░░░░░░░░░░░░░   15.45 %
-Other                12 hrs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.78 %
+YAML                 43 hrs 46 mins  ██████▒░░░░░░░░░░░░░░░░░░   25.23 %
+C                    32 hrs 56 mins  ████▓░░░░░░░░░░░░░░░░░░░░   18.99 %
+Go                   27 hrs 35 mins  ████░░░░░░░░░░░░░░░░░░░░░   15.91 %
+Python               24 hrs 46 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.29 %
+Other                12 hrs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.92 %
 ```
 
 <!--END_SECTION:waka-->
