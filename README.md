@@ -18,14 +18,14 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 16 June 2025 - To: 15 December 2025
+From: 17 June 2025 - To: 16 December 2025
 
-Total Time: 185 hrs 6 mins
+Total Time: 185 hrs 16 mins
 
-C                    78 hrs 38 mins  ██████████▒░░░░░░░░░░░░░░   40.99 %
-YAML                 34 hrs 34 mins  ████▓░░░░░░░░░░░░░░░░░░░░   18.03 %
-Go                   26 hrs 1 min    ███▒░░░░░░░░░░░░░░░░░░░░░   13.56 %
-Makefile             13 hrs 27 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   07.02 %
+C                    78 hrs 38 mins  ██████████▒░░░░░░░░░░░░░░   40.96 %
+YAML                 34 hrs 1 min    ████▒░░░░░░░░░░░░░░░░░░░░   17.72 %
+Go                   26 hrs 38 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.87 %
+Makefile             13 hrs 27 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   07.01 %
 Other                6 hrs 43 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 %
 ```
 
