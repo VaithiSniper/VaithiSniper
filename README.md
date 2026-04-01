@@ -18,15 +18,14 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 28 September 2025 - To: 29 March 2026
+From: 29 September 2025 - To: 30 March 2026
 
-Total Time: 161 hrs 40 mins
+Total Time: 161 hrs 4 mins
 
-C                    73 hrs 4 mins         ██████████▓░░░░░░░░░░░░░░   42.68 %
+C                    72 hrs 12 mins        ██████████▓░░░░░░░░░░░░░░   42.19 %
 Go                   30 hrs 5 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.58 %
-YAML                 21 hrs 53 mins        ███▒░░░░░░░░░░░░░░░░░░░░░   12.78 %
-Bash                 9 hrs 41 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.66 %
-Other                9 hrs 32 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.57 %
+YAML                 21 hrs 53 mins        ███▒░░░░░░░░░░░░░░░░░░░░░   12.79 %
+Other                10 hrs 4 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.89 %
 ```
 
 <!--END_SECTION:waka-->
