@@ -1,17 +1,30 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on KDE software 💓 and L4/L7 networking applications 
-- 📖 Learning to make cross-platform applications with Kirigami, Qt and C++
-- 🕸️ Exploring eBPF/DPDK, Envoy and instrumenting Cloud-Native applications. 
-- 👯 I’m looking to collaborate on any project that fits my skillset ^_^
-- Reach me at my LinkedIn : https://www.linkedin.com/in/vaitheeswaran-janakiraman-8231a3200/
+I'm Vaitheeswaran, a software engineer interested in systems, networking and distributed infrastructure.
 
-## My Stats
-[![VaithiSniper's GitHub stats](https://github-readme-stats.vercel.app/api?username=VaithiSniper&hide=stars&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+I enjoy understanding how systems work from the wire all the way up.
 
-## My Top Languages
+Current interests:
+- Datacenter networking
+- BGP, MPLS and EVPN
+- Kubernetes networking
+- Distributed systems
+- Storage systems
+- Rust and Go
+- Operating systems and observability
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VaithiSniper&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+Recent work has involved:
+- BGP Unnumbered
+- IPv6 link-local networking
+- Dynamic logging infrastructure
+- Network protocol implementation
+- Distributed storage experimentation
+
+Current side projects:
+- bgpd (Rust)
+- HyperStore (Go)
+
+Reach me at my LinkedIn:  https://www.linkedin.com/in/vaitheeswaran-janakiraman-8231a3200/
 
 ## My wakatime usage
 
