@@ -21,8 +21,8 @@ Recent work has involved:
 - Distributed storage experimentation
 
 Current side projects:
-- bgpd (Rust)
-- HyperStore (Go)
+- [bgpd (Rust)](https://github.com/VaithiSniper/bgpd)
+- [HyperStore (Go)](https://github.com/VaithiSniper/file-store)
 
 Reach me at my LinkedIn:  https://www.linkedin.com/in/vaitheeswaran-janakiraman-8231a3200/
 
