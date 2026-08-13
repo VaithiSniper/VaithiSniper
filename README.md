@@ -31,14 +31,14 @@ Reach me at my LinkedIn:  https://www.linkedin.com/in/vaitheeswaran-janakiraman-
 <!--START_SECTION:waka-->
 
 ```rust
-From: 09 February 2026 - To: 10 August 2026
+From: 10 February 2026 - To: 11 August 2026
 
-Total Time: 260 hrs 31 mins
+Total Time: 262 hrs 30 mins
 
-C                    102 hrs 17 mins       ████████▒░░░░░░░░░░░░░░░░   33.96 %
-YAML                 60 hrs 42 mins        █████░░░░░░░░░░░░░░░░░░░░   20.15 %
-Markdown             40 hrs 48 mins        ███▒░░░░░░░░░░░░░░░░░░░░░   13.55 %
-Other                40 hrs 43 mins        ███▒░░░░░░░░░░░░░░░░░░░░░   13.52 %
+C                    102 hrs 17 mins       ████████▒░░░░░░░░░░░░░░░░   33.69 %
+YAML                 60 hrs 50 mins        █████░░░░░░░░░░░░░░░░░░░░   20.04 %
+Markdown             41 hrs 57 mins        ███▒░░░░░░░░░░░░░░░░░░░░░   13.82 %
+Other                41 hrs 4 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.53 %
 ```
 
 <!--END_SECTION:waka-->
